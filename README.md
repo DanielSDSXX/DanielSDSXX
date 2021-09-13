@@ -6,7 +6,7 @@
 - 📫 Como chegar até mim: Daniel!#0001
 - ✨ Pai do bot viking 🤞
 
-![Status Github](https://github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Status Github](https://github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&theme=radical) 
 
 
 
