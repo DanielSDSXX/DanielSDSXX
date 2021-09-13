@@ -6,12 +6,8 @@
 - 📫 Como chegar até mim: Daniel!#0001
 - ✨ Pai do bot viking 🤞
 
-![Status Github](https://github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&theme=radical) <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+![Status Github](https://github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![805192428520734732](https://user-images.githubusercontent.com/77695301/110166709-818cec80-7dd3-11eb-8fc1-9824bec1689a.png)
